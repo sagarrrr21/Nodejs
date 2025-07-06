@@ -1,0 +1,13 @@
+REST API - JSON
+
+GET /users - HTML Document Render - Done
+GET /api/users - LIST ALL users JSON - Done
+
+GET /users/1 = get the users wiht ID 1 - Done
+GET /users/2 = get the users wiht ID 2 - Done
+
+POST / users - create new user
+
+PATCH / users/1 - Edit the user with ID 1
+
+DELETE /users/1 - Delete the user with ID 1
